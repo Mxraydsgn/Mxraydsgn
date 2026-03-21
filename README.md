@@ -1,16 +1,18 @@
-## Hi there 👋
+<img width="50%" align="left" src="https://i.imgur.com/jSMgwTf.jpeg"/>
 
-<!--
-**Mxraydsgn/Mxraydsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 𝙷𝙸 𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴 👋
 
-Here are some ideas to get you started:
+⏭️ My name is *Dima*, and I love creating all kinds of art, mostly based on my favorite “Call of Duty” game series. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏭️ I also work on projects designed to make it easier to work with models from the “Call of Duty” games.
+
+## Info
+- ♾️ Currently working on: content and tools for BLENDER
+- 📒 Learning: how to create beautiful artwork and develop software
+- 🪖 I love military culture and everything related to it
+- 📫 Contact: Discord / Steam
+- 🎵 I compose music: “DILIFA”
+
+
+## (⌐■_■)
+<img width="45%" align="right" src="https://i.imgur.com/zcr8TzQ.gif"/>
