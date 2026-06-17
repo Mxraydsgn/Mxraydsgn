@@ -10,7 +10,7 @@
 - ♾️ Currently working on: content and tools for BLENDER
 - 📒 Learning: how to create beautiful artwork and develop software
 - 🪖 I love military culture and everything related to it
-- 📫 Contact: Discord / Steam
+- 📫 Contact: Discord "dilifa" / Steam "Mxray"
 - 🎵 I compose music: “DILIFA”
 
 
