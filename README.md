@@ -1,7 +1,10 @@
 <img width="50%" align="left" src="https://i.imgur.com/jSMgwTf.jpeg"/>
 
 <p align="center">
-  <strong>SpriteS</strong>
+  <strong>ΗΞŁŁΘ</strong>
+</p>
+<p align="center">
+  <strong>💥ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘᴀɢᴇ💥</strong>
 </p>
 
 ⏭️ My name is ***Dima***, and I love creating all kinds of art, mostly based on my favorite “𝑪𝒂𝒍𝒍 𝒐𝒇 𝑫𝒖𝒕𝒚” game series. 
@@ -23,3 +26,4 @@
 ---
 <img width="45%" align="right" src="https://i.imgur.com/zcr8TzQ.gif"/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Michroma&pause=1000&color=F70000&center=true&width=435&lines=create+by;MXRAY+DESIGN" alt="Typing SVG" /></a>
