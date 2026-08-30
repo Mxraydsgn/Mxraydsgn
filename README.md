@@ -1,5 +1,7 @@
-<img width="50%" align="left" src="https://i.imgur.com/jSMgwTf.jpeg"/>
 
+<p align="center">
+  <img width="50%" src="mxrsrc/mxrgif.gif"/>
+</p>
 <p align="center">
   <strong>ΗΞŁŁΘ</strong>
 </p>
@@ -21,9 +23,6 @@
 - 📫 Contact: Discord **"dilifa"** / Steam **"Mxray"**
 - 🎵 I compose music: “DILIFA”
 
-<p align="center">🅰️ 🅱️ 🅾️ 🅱️ 🅰️</p>
-
----
-<img width="45%" align="right" src="https://i.imgur.com/zcr8TzQ.gif"/>
-
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Michroma&pause=1000&color=F70000&center=true&width=435&lines=create+by;MXRAY+DESIGN" alt="Typing SVG" /></a>
+</p>
