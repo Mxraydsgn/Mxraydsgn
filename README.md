@@ -2,7 +2,7 @@
 
 ---
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Michroma&pause=1000&color=F70000&center=true&width=435&lines=HELLO;This+my+page" alt="Typing SVG" /></a>
+  <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Michroma&pause=1000&color=F70000&center=true&width=435&lines=HELLO;This+my+page" alt="Typing SVG" /></h1>
 
 ⏭️ My name is ***Dima***, and I love creating all kinds of art, mostly based on my favorite “𝑪𝒂𝒍𝒍 𝒐𝒇 𝑫𝒖𝒕𝒚” game series. 
 
