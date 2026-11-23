@@ -28,6 +28,21 @@
 ⨯ｘＸｘ⨯</sub>
 </div>
 
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Michroma&pause=1000&color=F70000&center=true&width=435&lines=create+by;MXRAY+DESIGN" alt="Typing SVG" /></a>
+  <a href="[https://x.com/YOUR_USERNAME](https://x.com/MxrayDSGN)">
+    <img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X.com">
+  </a>
+  <a href="https://www.youtube.com/@dilifa">
+    <img src="https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube">
+  </a>
+  <a href="https://discord.com/users/1048029364287189193">
+    <img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord">
+  </a>
+  <a href="https://discord.com/users/1048029364287189193">
+    <img src="https://img.shields.io/badge/SoundCloud-111111?style=flat-square&logo=soundcloud&logoColor=FF5500" alt="SoundCloud">
+  </a>
+  <a href="https://steamcommunity.com/id/dilifamusic/">
+    <img src="https://img.shields.io/badge/Steam-111111?style=flat-square&logo=steam&logoColor=white" alt="Steam">
+  </a>
 </p>
