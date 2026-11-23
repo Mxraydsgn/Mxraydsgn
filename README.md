@@ -39,8 +39,11 @@
   <a href="https://discord.com/users/1048029364287189193">
     <img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord">
   </a>
-  <a href="https://discord.com/users/1048029364287189193">
+  <a href="https://soundcloud.com/djdilifa">
     <img src="https://img.shields.io/badge/SoundCloud-111111?style=flat-square&logo=soundcloud&logoColor=FF5500" alt="SoundCloud">
+  </a>
+  <a href="https://open.spotify.com/artist/6v9UyLodQ2fi5QVcC4ETQ2?si=vVQY3ekmSE-fkGIeD5aAYg">
+    <img src="https://img.shields.io/badge/Spotify-111111?style=flat-square&logo=spotify&logoColor=1DB954" alt="Spotify">
   </a>
   <a href="https://steamcommunity.com/id/dilifamusic/">
     <img src="https://img.shields.io/badge/Steam-111111?style=flat-square&logo=steam&logoColor=white" alt="Steam">
