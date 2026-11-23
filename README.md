@@ -47,37 +47,43 @@
   </a>
 </p>
 
-
-<h2 align="center">Featured Projects</h2>
+<div align="center">
+<p>——————— ⨯ｘＸｘ⨯ ———————</p>
+</div>
+​
+<p align="center"><strong>✨ 🇫🇪🇦🇹🇺🇷🇪🇩 🇵🇷🇴🇯🇪🇨🇹🇸 ✨</strong></p>
 <p align="center">
-  A collection of my projects and tools.
+  <strong>–⨯ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ⨯–</strong>
 </p>
-
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/USERNAME/PROJECT1">
-        <img src="mxrsrc/mxrgif.gif" width="100%" alt="Project 1"/>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Mxraydsgn/MDS-Shader">
+        <img src="mxrsrc/mdss.jpg" width="100%" alt="MDS Shader"/>
       </a>
-      <h3>Project One</h3>
-      <p>Short description of your project.</p>
+      <h3>MDS Shader</h3>
+      <p>Blender addon for "CALL OF DUTY"</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
-        <img src="https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=F5792A"/>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+        <img src="https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=F5792A" alt="Blender"/>
       </p>
-      <a href="https://github.com/USERNAME/PROJECT1">↗ View Project</a>
+      <a href="https://github.com/Mxraydsgn/MDS-Shader/releases">
+        <img src="https://img.shields.io/badge/DOWNLOAD-F5792A?style=for-the-badge&logo=github&logoColor=white" alt="Download"/>
+      </a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/USERNAME/PROJECT2">
-        <img src="https://raw.githubusercontent.com/USERNAME/PROJECT2/main/rsc/preview.jpg" width="100%" alt="Project 2"/>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Mxraydsgn/Glare-Bloom-Photoshop-plugin-">
+        <img src="mxrsrc/gb.jpg" width="100%" alt="Glare & Bloom"/>
       </a>
-      <h3>Project Two</h3>
-      <p>Short description of your project.</p>
+      <h3>Glare & Bloom</h3>
+      <p>Create bloom and glare in Photoshop</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
-        <img src="https://img.shields.io/badge/Tools-111111?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop"/>
       </p>
-      <a href="https://github.com/USERNAME/PROJECT2">↗ View Project</a>
+      <a href="https://github.com/Mxraydsgn/Glare-Bloom-Photoshop-plugin-/releases/tag/release">
+        <img src="https://img.shields.io/badge/DOWNLOAD-31A8FF?style=for-the-badge&logo=github&logoColor=white" alt="Download"/>
+      </a>
     </td>
   </tr>
 </table>
