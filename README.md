@@ -46,3 +46,38 @@
     <img src="https://img.shields.io/badge/Steam-111111?style=flat-square&logo=steam&logoColor=white" alt="Steam">
   </a>
 </p>
+
+
+<h2 align="center">Featured Projects</h2>
+<p align="center">
+  A collection of my projects and tools.
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/USERNAME/PROJECT1">
+        <img src="mxrsrc/mxrgif.gif" width="100%" alt="Project 1"/>
+      </a>
+      <h3>Project One</h3>
+      <p>Short description of your project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
+        <img src="https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=F5792A"/>
+      </p>
+      <a href="https://github.com/USERNAME/PROJECT1">↗ View Project</a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/USERNAME/PROJECT2">
+        <img src="https://raw.githubusercontent.com/USERNAME/PROJECT2/main/rsc/preview.jpg" width="100%" alt="Project 2"/>
+      </a>
+      <h3>Project Two</h3>
+      <p>Short description of your project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
+        <img src="https://img.shields.io/badge/Tools-111111?style=flat-square&logo=github&logoColor=white"/>
+      </p>
+      <a href="https://github.com/USERNAME/PROJECT2">↗ View Project</a>
+    </td>
+  </tr>
+</table>
