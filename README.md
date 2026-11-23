@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <a href="[https://x.com/YOUR_USERNAME](https://x.com/MxrayDSGN)">
+  <a href="https://x.com/MxrayDSGN">
     <img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X.com">
   </a>
   <a href="https://www.youtube.com/@dilifa">
